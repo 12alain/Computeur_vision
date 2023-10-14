@@ -2,7 +2,7 @@ streamlit
 numpy
 torch
 torchvision
-Pillow==8.3.1 
+Pillow
 torch-utils-data
 scikit-image
 matplotlib
