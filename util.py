@@ -16,7 +16,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 st.title("Modele capable de predire sur une photos la presence de tumeur cerebrale")
-st.subheader("Application realiser par le groupe 3 des etudiants de Daar institute of Technologie  ")
+st.subheader("Application realiser par le groupe 3 des etudiants de Dakar  institute of Technologie  ")
 st.markdown("cette application utilise un modele de deep learning pour predire la presence d'un tumeur cerebrale sur une photos")
 # creation d'un bouton download 
 uploaded_file=st.file_uploader("Telecharger une image" ,type=['jpg',"png","jpeg"])
