@@ -24,7 +24,7 @@ Le modèle a été formé à l'aide de données provenant du jeu de données bra
 
 Pour utiliser l'application de classification de tumeurs cérébrales, suivez ces étapes :
 
-1. Accédez à l'application en suivant le lien fourni.
+1. Accédez à l'application en suivant le lien suivant :https://12alain-computeur-vision-util-nxfa57.streamlit.app/.
 2. Téléchargez une image médicale du cerveau depuis ce lien https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection/download?datasetVersionNumber=1 ou sur le net pour tester le modele 
 3. Cliquez sur le bouton "Predict" pour obtenir la prédiction.
 4. La prédiction sera affichée avec des informations sur la probabilité de présence de tumeur.
