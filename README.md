@@ -14,7 +14,7 @@ Les données utilisées pour former le modèle proviennent du jeu de données su
 
 Un modèle de classification de tumeurs cérébrales a été utilisé pour classer les images médicales en deux catégories : "Présence de tumeur" et "Pas de tumeur".
 
-Le modèle a été formé à l'aide de données provenant du jeu de données brain_tumor_dataset et en suivant les étapes décrites dans https://www.kaggle.com/code/harmandeepsinghpadam/pytorch-brain-tumor-classification-testacc-95.Le modèle formé est disponible dans le fichier model.py du  projet et vous verrez dans le dossier model le model enregistrer .
+Le modèle a été formé à l'aide de données provenant du jeu de données brain_tumor_dataset et en suivant les étapes décrites dans https://www.kaggle.com/code/harmandeepsinghpadam/pytorch-brain-tumor-classification-testacc-95. Le modèle formé est disponible dans le fichier model.py du  projet et vous verrez dans le dossier model le model enregistrer .
 
 ## Fichier Important
 - le fichier main.py permet d'entrainer le modele et de visualiser les courbes d'entrainement et de perte 
