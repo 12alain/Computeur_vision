@@ -5,3 +5,4 @@ torchvision
 Pillow>=7.1.0
 scikit-image
 matplotlib
+click
